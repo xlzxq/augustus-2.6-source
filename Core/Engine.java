@@ -1,6 +1,6 @@
 // 
 // Decompiled by Procyon v0.5.36
-// adikan xlzxq and rattles are cool as fuck
+//
 
 package Core;
 
